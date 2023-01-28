@@ -112,7 +112,7 @@ p {
   font-weight: 400;
 }
 
-/*@@@@@@@@@@@@@@@@@@@@@@@@ hero */
+/*################### hero */
 h1,
 h2,
 i {
@@ -130,18 +130,18 @@ footer p {
   border-radius: 6px;
 }
 
-/*@@@@@@@@@@@@@@@@@@@ section-jeremy */
+/*########## section-jeremy */
 .section-jeremy {
   color: var(--very-Light);
 }
 
-/*@@@@@@@@@@@@@@@@@@ footer */
+/*###### footer */
 footer {
   background-color: var(--Light);
 }
 /* ####### */
 
-/*@@@@@@@@@@@@@@@@@@@@@ for-phone-only @@@@@@@@@@@@@@@@@@@@@*/
+/*########### for-phone-only ###########*/
 @media (max-width: 599px) {
   header {
     margin: 24px 16px 56px 16px;
@@ -378,7 +378,7 @@ footer {
   }
 }
 
-/*@@@@@@@@@@@@@@@@@@@@@############ for-tablet-portrait-up @@@@@@@@@@@@@@@@@@@@*/
+/*############ for-tablet-portrait-up#########*/
 @media (min-width: 600px) {
   /*@@@@@@@@@@@@@ header */
   header {
@@ -622,7 +622,7 @@ footer {
   }
 }
 
-/*@@@@@@@@@@@@@@@@@@@@@############ for-tablet-landscape-up & desktop @@@@@@@@@@@@@@@@@@@@*/
+/*############ for-tablet-landscape-up & desktop ##########*/
 @media (min-width: 900px) {
   .show-on-mobile {
     display: none;
@@ -919,11 +919,11 @@ footer {
   }
 }
 
-/*@@@@@@@@@@@@@@@@@@@@@############ for-desktop-up @@@@@@@@@@@@@@@@@@@@*/
+/*############ for-desktop-up ##############*/
 @media (min-width: 1200px) {
   /* never-mind */
 }
 
-/*@@@@@@@@@@@@@@@@@@@@@############ for-big-desktop-up @@@@@@@@@@@@@@@@@@@@*/
+/*############ for-big-desktop-up */
 @media (min-width: 1800px) {
 }
