@@ -908,12 +908,12 @@ footer {
     margin-left: 24px;
   }
 
-  .fa-brands {
+  .svg-inline--fa {
     font-size: 2rem;
     font-weight: 400;
   }
 
-  .fa-brands:hover {
+  .svg-inline--fa:hover {
     opacity: 0.5;
     cursor: pointer;
   }
